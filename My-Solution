@@ -1,0 +1,16 @@
+function factorial() {
+	var i = num; //create number for "num" to be multiplied by
+	if (num == 0 || num == 1) {
+		return 1; //1 factorial is 1, 0 factorial is 1
+  }
+	while (i > 1) { //keep repeating until i is 1 and end
+    	i--; //repeatedly decrease i by one
+    	num = (num * i); //apply math
+  	}
+	return num; //return finished product
+}
+
+//give a number through here
+var num = 10
+
+console.log(factorial());
