@@ -4,4 +4,6 @@ You should be able to output a factorial of a given number.
 
 Do not use recursion. Most solutions i've found online use recursion and not using it should be harder to cheat an answer.
 
-Good luck!
+Good luck!!
+
+Dont forget comments
